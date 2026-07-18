@@ -4,20 +4,22 @@ Catrun（猫爪代办）：一款基于ArkTS开发的鸿蒙待办任务管理应
 
 ## 操作预览
 
-<div style="display: flex; gap: 8px; width: 100%;">
-    <div style="flex: 1; text-align: center;">
-        <img src="https://bu.dusays.com/2026/07/18/6a5ae9654f29c.gif" style="max-width: 100px;border-radius:12px" alt="">
-        <p style="font-size:12px;margin:4px 0 0;">注册登录</p>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://bu.dusays.com/2026/07/18/6a5aea064a745.gif" style="max-width: 100px;border-radius:12px" alt="">
-        <p style="font-size:12px;margin:4px 0 0;">添加与移除</p>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://bu.dusays.com/2026/07/18/6a5aea00a484a.gif" style="max-width: 100px;border-radius:12px" alt="">
-        <p style="font-size:12px;margin:4px 0 0;">切换账号</p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://bu.dusays.com/2026/07/18/6a5ae9654f29c.gif" width="120" style="border-radius:12px"><br/>
+      <small>注册登录</small>
+    </td>
+    <td align="center">
+      <img src="https://bu.dusays.com/2026/07/18/6a5aea064a745.gif" width="120" style="border-radius:12px"><br/>
+      <small>添加与移除</small>
+    </td>
+    <td align="center">
+      <img src="https://bu.dusays.com/2026/07/18/6a5aea00a484a.gif" width="120" style="border-radius:12px"><br/>
+      <small>切换账号</small>
+    </td>
+  </tr>
+</table>
 
 ## 技术栈
 - **开发语言**：ArkTS
