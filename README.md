@@ -7,19 +7,19 @@ Catrun（猫爪代办）：一款基于ArkTS开发的鸿蒙待办任务管理应
 <table>
   <tr>
   <td align="center">
-      <img src="https://bu.dusays.com/2026/07/18/6a5af3bd891fb.gif" width="200" style="border-radius:16px"><br/>
+      <img src="https://bu.dusays.com/2026/07/18/6a5af3bd891fb.gif" width="180" style="border-radius:16px"><br/>
       <small>启动画面</small>
     </td>
     <td align="center">
-      <img src="https://bu.dusays.com/2026/07/18/6a5aed9d80464.gif" width="200" style="border-radius:16px"><br/>
+      <img src="https://bu.dusays.com/2026/07/18/6a5aed9d80464.gif" width="180" style="border-radius:16px"><br/>
       <small>注册登录</small>
     </td>
     <td align="center">
-      <img src="https://bu.dusays.com/2026/07/18/6a5aea064a745.gif" width="200" style="border-radius:16px"><br/>
+      <img src="https://bu.dusays.com/2026/07/18/6a5aea064a745.gif" width="180" style="border-radius:16px"><br/>
       <small>添加与移除</small>
     </td>
     <td align="center">
-      <img src="https://bu.dusays.com/2026/07/18/6a5aea00a484a.gif" width="200" style="border-radius:16px"><br/>
+      <img src="https://bu.dusays.com/2026/07/18/6a5aea00a484a.gif" width="180" style="border-radius:16px"><br/>
       <small>切换账号</small>
     </td>
   </tr>
