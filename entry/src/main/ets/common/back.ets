@@ -1,0 +1,6 @@
+@Component
+struct back {
+  build() {
+
+  }
+}
